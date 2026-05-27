@@ -1,6 +1,5 @@
 👋 Hi, I’m Jesaurel  
-🎓 Fresh graduate from SMK Negeri 6 Surakarta, passionate about web & mobile development  
-💻 Experienced with HTML, CSS, JavaScript, PHP, MySQL, and currently learning Laravel & Flutter  
+💻 Experienced with HTML, PHP, MySQL, and currently learning Laravel & Python
 💼 Available for freelance projects and paid collaborations  
 📬 Contact me for web or mobile development work
 
